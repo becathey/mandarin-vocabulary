@@ -1,6 +1,6 @@
 # Mandarin Vocabulary
 
-An app for learning and studying Mandarin vocabulary.
+An app for learning and studying Mandarin vocabulary. Created with Vue.js.
 
 ## Project setup
 
