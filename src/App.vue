@@ -2,7 +2,7 @@
   <div id="app">
     <div class="ui inverted segment navbar">
       <div class="ui center aligned container">
-        <div class="ui large secondary inverted pointing menu compact">
+        <div class="ui small secondary inverted pointing menu compact">
           <router-link to="/words" exact class="item">
             <i class="list icon"></i> Words
           </router-link>
