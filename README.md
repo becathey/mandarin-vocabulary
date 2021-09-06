@@ -1,31 +1,27 @@
 # Mandarin Vocabulary
 
-An app for learning and studying Mandarin vocabulary. Created with Vue.js.
+An project is an application for learning and practicing Mandarin vocabulary. It includes a listing of common Mandarin characters with their English translations, a page for testing your knowledge of English translations of Mandarin characters, and a page for testing your knowledge of Mandarin translations of English words. The app is created with Vue.js and Semantic UI.
 
-## Project setup
+## Project Setup
+
+To install the project dependencies, in the project directory run:
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run the App
+
+To compile the application and hot-reload when edits are made during development, run:
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Build the App
+
+To compile the application and minify the code for production, run:
 
 ```
 npm run build
 ```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
