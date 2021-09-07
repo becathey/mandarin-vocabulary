@@ -1,6 +1,6 @@
 # Mandarin Vocabulary
 
-An project is an application for learning and practicing Mandarin vocabulary. It includes a listing of common Mandarin characters with their English translations, a page for testing your knowledge of English translations of Mandarin characters, and a page for testing your knowledge of Mandarin translations of English words. The app is created with Vue.js and Semantic UI.
+An project is an application for learning and practicing Mandarin vocabulary. It includes a listing of common Mandarin characters with their English translations, a page for testing your knowledge of English translations of Mandarin characters, and a page for testing your knowledge of Mandarin translations of English words. The app is built with Vue.js, and uses Semantic UI for styling.
 
 ## Project Setup
 
