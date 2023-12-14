@@ -10,7 +10,7 @@ Vue.use(VueFlashMessage, {
   },
 });
 const vm = new Vue();
-const baseURL = "https://mandarin-english.herokuapp.com/words";
+const baseURL = "https://mandarin-api-production.up.railway.app/words";
 
 const handleError = (fn) => (...params) =>
   fn(...params).catch((error) => {
